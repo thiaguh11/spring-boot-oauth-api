@@ -1,0 +1,16 @@
+--CREATE TABLE tb_user (
+--    id TEXT PRIMARY KEY UNIQUE NOT NULL,
+--    login TEXT NOT NULL UNIQUE,
+--    password TEXT NOT NULL
+--);
+--
+--CREATE TABLE tb_role (
+--    name TEXT PRIMARY KEY UNIQUE NOT NULL
+--);
+--
+--CREATE TABLE tb_user_roles (
+--  users_id TEXT NOT NULL,
+--  roles_name TEXT NOT NULL,
+--  CONSTRAINT role_fk FOREIGN KEY (roles_name) REFERENCES tb_role (name),
+--  CONSTRAINT user_fk FOREIGN KEY (users_id) REFERENCES tb_user (id)
+--);
