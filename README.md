@@ -7,8 +7,6 @@
 
 This project is an API built using **Java, Java Spring, Flyway Migrations, PostgresSQL as the database, and Spring Security and JWT for authentication control.**
 
-This developed use as inspiration this [Youtube Tutorial](https://www.youtube.com/watch?v=5w-YCcOjPD0).
-
 ## Table of Contents
 
 - [Installation](#installation)
@@ -68,6 +66,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 When contributing to this project, please follow the existing code style, [commit conventions](https://www.conventionalcommits.org/en/v1.0.0/), and submit your changes in a separate branch.
 
-
-
-
+## References  
+[Youtube Tutorial](https://www.youtube.com/watch?v=5w-YCcOjPD0)
